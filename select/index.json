@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "SPITFIRE",
+  "base_artist": "GO2",
+  "createdAt": "2026-03-20T11:45:35.096903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spitfire",
+      "artist": "Public Service Broadcasting",
+      "has_synced": false,
+      "path": "select/01_Spitfire_Public_Service_Broadcasting.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spitfire",
+      "artist": "Public Service Broadcasting",
+      "has_synced": true,
+      "path": "select/02_Spitfire_Public_Service_Broadcasting.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spitfire (Ashley Casselle & Justin Steel Remix)",
+      "artist": "Public Service Broadcasting",
+      "has_synced": false,
+      "path": "select/03_Spitfire_(Ashley_Casselle_&_Justin_Steel_Remix)_Public_Service_Broadcasting.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spitfire (Syntax Remix)",
+      "artist": "Public Service Broadcasting",
+      "has_synced": false,
+      "path": "select/04_Spitfire_(Syntax_Remix)_Public_Service_Broadcasting.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spitfire",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/05_Spitfire_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spitfire",
+      "artist": "The Spinanes",
+      "has_synced": true,
+      "path": "select/06_Spitfire_The_Spinanes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spitfire (Live)",
+      "artist": "The Prodigy",
+      "has_synced": false,
+      "path": "select/07_Spitfire_(Live)_The_Prodigy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spitfire",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/08_Spitfire_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spitfire",
+      "artist": "Emigrate",
+      "has_synced": true,
+      "path": "select/09_Spitfire_Emigrate.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spitfire",
+      "artist": "Prodigy",
+      "has_synced": true,
+      "path": "select/10_Spitfire_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Starsign Spitfire",
+      "artist": "Lordi",
+      "has_synced": true,
+      "path": "select/11_Starsign_Spitfire_Lordi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feed Your Mind - feat. Spitfire",
+      "artist": "Paul Oakenfold",
+      "has_synced": false,
+      "path": "select/12_Feed_Your_Mind_-_feat._Spitfire_Paul_Oakenfold.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Compromise - feat. Spitfire",
+      "artist": "Paul Oakenfold",
+      "has_synced": false,
+      "path": "select/13_No_Compromise_-_feat._Spitfire_Paul_Oakenfold.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spitfire",
+      "artist": "Go2",
+      "has_synced": false,
+      "path": "select/pl_01_Spitfire_Go2.txt"
+    }
+  ]
+}
